@@ -10,7 +10,7 @@ public class Main {
         int command = scanner.nextInt();
             switch (command) {
             case 0 -> {
-
+   // hi this is ayush
             }
         }
     }
