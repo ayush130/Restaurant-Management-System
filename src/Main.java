@@ -8,7 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter a command : ");
         int command = scanner.nextInt();
-        switch (command) {
+            switch (command) {
             case 0 -> {
 
             }
