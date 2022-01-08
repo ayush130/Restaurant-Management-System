@@ -22,7 +22,7 @@ public class Inventory {
     }
 
     public void setQuantity(float quantity) {
-        this.quantity = quantity;
+        this.quantity = quantity ;
     }
 
     public double getCost() {
